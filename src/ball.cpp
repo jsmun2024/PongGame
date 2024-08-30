@@ -9,8 +9,8 @@ Ball::Ball()
 {
     x = 1280/2;
     y = 800/2;
-    speedX = 6;
-    speedY = 6;
+    speedX = 7;
+    speedY = 7;
     radius = 20;
 }
 
